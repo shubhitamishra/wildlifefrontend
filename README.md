@@ -6,7 +6,7 @@ Wilderness is a dedicated website aimed at promoting the wellbeing of animals th
 
 ## Live
 
-- Demo: https://shubhitamishra.github.io/wilderness/
+- Demo: [https://shubhitamishra.github.io/wilderness/](http://shubhita.me/wildlifefrontend/)
 
 ## Features
 
